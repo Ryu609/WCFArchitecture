@@ -1,0 +1,14 @@
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\WCFArchitecture\bin\Debug\WCFArchitecture.exe.config
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\WCFArchitecture\bin\Debug\WCFArchitecture.exe
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\WCFArchitecture\bin\Debug\WCFArchitecture.pdb
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\WCFArchitecture\bin\Debug\EntityFramework.dll
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\WCFArchitecture\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\WCFArchitecture\bin\Debug\EntityFramework.xml
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\WCFArchitecture\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\WCFArchitecture\obj\Debug\WCFArchitecture.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\WCFArchitecture\obj\Debug\WCFArchitecture.exe
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\WCFArchitecture\obj\Debug\WCFArchitecture.pdb
+C:\Users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\WCFArchitecture\bin\Debug\AdventureWorkService.exe
+C:\Users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\WCFArchitecture\bin\Debug\IAdventureWorkInterface.exe
+C:\Users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\WCFArchitecture\bin\Debug\AdventureWorkService.pdb
+C:\Users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\WCFArchitecture\bin\Debug\IAdventureWorkInterface.pdb

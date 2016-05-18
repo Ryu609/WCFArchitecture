@@ -1,0 +1,12 @@
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\AdventureWorkService\bin\Debug\AdventureWorkService.exe.config
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\AdventureWorkService\bin\Debug\AdventureWorkService.exe
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\AdventureWorkService\bin\Debug\AdventureWorkService.pdb
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\AdventureWorkService\bin\Debug\EntityFramework.dll
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\AdventureWorkService\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\AdventureWorkService\bin\Debug\IAdventureWorkInterface.exe
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\AdventureWorkService\bin\Debug\IAdventureWorkInterface.pdb
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\AdventureWorkService\bin\Debug\EntityFramework.xml
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\AdventureWorkService\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\AdventureWorkService\obj\Debug\AdventureWorkService.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\AdventureWorkService\obj\Debug\AdventureWorkService.exe
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\AdventureWorkService\obj\Debug\AdventureWorkService.pdb

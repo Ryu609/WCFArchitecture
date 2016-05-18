@@ -1,0 +1,6 @@
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\IAdventureWorkInterface\bin\Debug\IAdventureWorkInterface.exe.config
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\IAdventureWorkInterface\bin\Debug\IAdventureWorkInterface.exe
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\IAdventureWorkInterface\bin\Debug\IAdventureWorkInterface.pdb
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\IAdventureWorkInterface\obj\Debug\IAdventureWorkInterface.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\IAdventureWorkInterface\obj\Debug\IAdventureWorkInterface.exe
+c:\users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\IAdventureWorkInterface\obj\Debug\IAdventureWorkInterface.pdb

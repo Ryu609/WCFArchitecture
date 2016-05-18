@@ -12,3 +12,6 @@ C:\Users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\WCFArchitectu
 C:\Users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\WCFArchitecture\bin\Debug\IAdventureWorkInterface.exe
 C:\Users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\WCFArchitecture\bin\Debug\AdventureWorkService.pdb
 C:\Users\ryu\documents\visual studio 2015\Projects\WCFArchitecture\WCFArchitecture\bin\Debug\IAdventureWorkInterface.pdb
+C:\Workspace\WcfArchitecture\WCFArchitecture\bin\Debug\WCFArchitecture.exe.config
+C:\Workspace\WcfArchitecture\WCFArchitecture\obj\Debug\WCFArchitecture.exe
+C:\Workspace\WcfArchitecture\WCFArchitecture\obj\Debug\WCFArchitecture.pdb
